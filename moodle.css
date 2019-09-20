@@ -1,0 +1,138 @@
+.lol1{
+    
+    margin-left:520px;
+    padding-bottom:0;
+
+}
+
+.lol2{
+    color:white;
+    font-size:14px;
+}
+
+.redbox{
+    background-color: #0A0403;
+    margin-top:0;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.lol3{
+    background-color: black;
+    padding-bottom:0;
+}
+
+.lol4{
+   size:3px;
+}
+
+.pottery{
+    border:dashed;
+    border-color:white;
+    padding-left:40px;
+    
+}
+.six{
+    height:110px;
+    width:110px;
+    display:block;
+}
+
+.lol9{
+    color: aliceblue;
+    margin-left:10px;
+}
+
+.left{
+    margin-top:30px;
+    display:block;
+    font-size:1em;
+    color:orange;
+} 
+
+.right{
+    display:block;
+    font-size:0.8em;
+    color:white;
+}
+
+
+.lol5:hover{
+background-color:orange;
+}
+
+
+
+.size{
+    height:auto;
+    width:40%;
+    margin-top:10px;
+}
+
+.mar{
+    margin-bottom:10px;
+}
+
+.red{
+   
+    font-size:2.5rem;
+    
+    color:white;
+    text-shadow: 2px 2px 2px #0A0403;
+}
+
+.yaar{
+    font-size:0.7em;
+}
+
+.bro{
+    font-size: 1.5em;
+}
+
+.bro8{
+    font-size:1em;
+}
+
+.bro1{
+    font-size: 0.7em;
+    margin-left:40%;
+}
+
+.yeah{
+    padding-left:20px;
+    padding-right:20px;
+}
+
+.bro3{
+    margin-left:50px;
+}
+.bro2{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.part{
+    border-bottom:dashed;
+    border-color:orangered;
+}
+
+.blue{
+    text-shadow: 2px 2px 2px #0A0403;
+    color:white;
+}
+
+.jumbo{
+    background-image: url(images3/banner_moodlemap-825x250.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:40%;
+}
+
+
+.orangebox{
+    
+    height:6px;
+    background-color: orange;
+   
+    box-shadow: 0px 6px 5px -1px rgba(0,0,0,0.75);
+}
